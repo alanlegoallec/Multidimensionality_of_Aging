@@ -1,0 +1,2 @@
+first
+/var/spool/slurmd/job11376299/slurm_script: line 12: unexpected EOF while looking for matching `"'
